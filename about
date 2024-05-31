@@ -1,0 +1,44 @@
+TYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sihle Mtshini - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="#about">About Me</a></li>
+    <a href="#contact">Contact</a>
+    <a href="#portfolio">Portfolio</a>
+</div>
+
+<div class="bg-image">
+    <div class="bg-text">
+        <h1>I am Sihle Mtshini</h1>
+        <p>And I am a Web developer</p>
+    </div>
+</div>
+
+<section id="about">
+    <h2>About Me</h2>
+    <!-- Add your about me content here -->
+    <p>Hi there! My name is Sihle Mtshini, and I'm a passionate web developer based in Johannesburg, South Africa.</p>
+        <p>I discovered my love for coding during my university days, where I majored in Computer Science. Since then, I've been on an exciting journey of continuous learning and growth in the field of web development.</p>
+        <p>I specialize in creating dynamic and user-friendly websites and web applications using a variety of technologies, including HTML5, CSS3, JavaScript, and popular frameworks like React and Vue.js. I'm also proficient in backend development with Node.js and Express.</p>
+        <p>When I'm not coding, you can find me exploring new coffee shops around the city, playing guitar, or hiking in the beautiful countryside.</p>
+        <p>I'm passionate about creating meaningful digital experiences that make a positive impact on people's lives. Whether it's building a sleek e-commerce platform or a robust web application, I'm always up for the challenge!</p>
+</section>
+
+<section id="contact">
+    <!-- Add your contact information here -->
+</section>
+
+<section id="portfolio">
+    <!-- Add your portfolio projects here -->
+</section>
+
+</body>
+</html>
